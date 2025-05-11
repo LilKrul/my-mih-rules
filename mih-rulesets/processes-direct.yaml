@@ -1,3 +1,7 @@
 payload:
   - PROCESS-NAME,uTorrent.exe
   - PROCESS-NAME,BitTorrent.exe
+  - PROCESS-NAME,Overwolf.exe
+  - PROCESS-NAME,OverwolfBrowser.exe
+  - PROCESS-NAME,OverwolfHelper.exe
+  - PROCESS-NAME,OverwolfHelper64.exe
