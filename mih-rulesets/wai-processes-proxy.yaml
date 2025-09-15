@@ -1,2 +1,3 @@
 payload:
-  - PROCESS-NAME,LoL2.exe
+  - PROCESS-NAME,Battle.net.exe
+  - PROCESS-NAME,Agent.exe
