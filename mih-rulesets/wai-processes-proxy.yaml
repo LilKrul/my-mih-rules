@@ -1,3 +1,4 @@
 payload:
   - PROCESS-NAME,Battle.net.exe
   - PROCESS-NAME,Agent.exe
+  - PROCESS-NAME,Spotify.exe
