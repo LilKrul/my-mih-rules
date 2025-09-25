@@ -6,3 +6,4 @@ payload:
   - PROCESS-NAME,OverwolfHelper.exe
   - PROCESS-NAME,OverwolfHelper64.exe
   - PROCESS-NAME,obs-browser-page.exe
+  - PROCESS-NAME,Bethesda.net_Launcher.exe
