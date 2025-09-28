@@ -8,3 +8,5 @@ payload:
   - PROCESS-NAME,obs-browser-page.exe
   - PROCESS-NAME,Bethesda.net_Launcher.exe
   - PROCESS-NAME,StarRail.exe
+  - PROCESS-NAME,HYPHelper.exe
+  - PROCESS-NAME,HYP.exe
