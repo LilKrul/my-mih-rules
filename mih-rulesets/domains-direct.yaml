@@ -43,3 +43,4 @@ payload:
 - '+.wns.windows.com'
 - '+.smartscreen-prod.microsoft.com'  
 - '+.crl.microsoft.com' 
+- '+.edge.microsoft.com'
