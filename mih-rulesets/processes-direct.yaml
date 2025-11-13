@@ -14,3 +14,5 @@ payload:
   - PROCESS-NAME,LeagueClientUx.exe
   - PROCESS-NAME,LeagueClientUxRender.exe
   - PROCESS-NAME,LeagueClient.exe
+  - PROCESS-NAME,RiotClientServices.exe
+  - PROCESS-NAME,Riot Client.exe
