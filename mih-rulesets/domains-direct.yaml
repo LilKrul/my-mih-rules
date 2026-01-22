@@ -1,4 +1,6 @@
 payload:
+- '+.adblockplus.org'
+- '+.gamepass.com'
 - '+.rezka.fi'
 - '+.arenabreakoutinfinite.com'
 - '+.sapph.xyz'
