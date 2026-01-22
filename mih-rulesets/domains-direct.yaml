@@ -1,4 +1,6 @@
 payload:
+- '+.hg-cdn.com'
+- '+.beyond.hg-cdn.com'
 - '+.adblockplus.org'
 - '+.gamepass.com'
 - '+.rezka.fi'
