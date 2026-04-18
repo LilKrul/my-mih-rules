@@ -1,4 +1,6 @@
 payload:
+- '+.poe.live-video.net'
+- '+.hls.live-video.net'
 - '+.bravesoftware.com'
 - '+.adblock.st-panel-api.com'
 - '+.gxcorner.games'
