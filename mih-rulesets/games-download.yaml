@@ -1,5 +1,5 @@
 payload:
-- '+.patcher.elderscrollsonline.com'
+- DOMAIN-SUFFIX,patcher.elderscrollsonline.com
 - '+.arenabreakoutinfinite.com'
 - '+.steamserver.net'
 - '+.dl.playstation.net'
